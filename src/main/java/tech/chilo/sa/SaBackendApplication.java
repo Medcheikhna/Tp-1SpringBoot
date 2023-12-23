@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "tech.chilo.sa")
+
 public class SaBackendApplication {
 
 	public static void main(String[] args) {
